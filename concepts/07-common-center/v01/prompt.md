@@ -1,0 +1,24 @@
+# Общий центр: точный запрос
+
+Дата: 2026-11-03. Инструмент: image_gen.imagegen. Режим: generate. Прозрачность: false. Входных изображений нет.
+
+```text
+Use case: logo-brand. Create a polished presentation slide for CLIENT APPROVAL of a new original brand identity for ЕТОР, the Russian "Единая территория опережающего развития". This is an investment-development umbrella brand, NOT a bank. The client requires a mandatory standalone symbol and an unmistakably contemporary style, with absolutely no retro cues, no serifs, no vintage references.
+Output a complete 16:9 landscape brand presentation slide, ideally 2560 x 1440 pixels. High resolution, exceptionally crisp and professionally art-directed. ONE concept per image. A composed identity presentation with a deliberate consistent grid, not a random collage. A slide the designer can immediately forward to a client.
+
+PRESENTATION STRUCTURE:
+1. Small restrained top header: "ЕТОР" at left and the concept label specified below at right.
+2. Upper-left, the largest and most important area: the ORIGINAL STANDALONE SYMBOL beside a custom Cyrillic wordmark "ЕТОР". The final Cyrillic Р looks like Latin P with NO diagonal leg. Directly below, the descriptor exactly on two lines: "Единая территория" / "опережающего развития". Below that, a short one-sentence concept rationale specified below in modest readable type.
+3. Upper-right: one striking sample of the proprietary graphic language derived from the symbol, showing how it becomes a recognizable brand asset. It must feel related to the actual symbol's geometry.
+4. Lower-left small supporting area: three restrained color swatches, a monochrome version of the SYMBOL, and one typography sample "Аа Бб 0123456789". Keep this discreet, not a busy technical chart.
+5. Across the lower half, TWO large elegantly staged application examples: a laptop or desktop website homepage shown largely front-on, and a landscape investor-guide cover plus one smaller simple vertical sign or poster beside it. These are legitimate applications on one coherent presentation slide, not extra concept variations. Use realistic minimal mockups with very soft shadows and no dramatic perspective. The same exact symbol and wordmark must appear consistently on every application.
+The mockup website only needs readable "ЕТОР", "Единая территория опережающего развития", and small navigation "О проекте", "Условия", "Контакты". The cover text is exactly "Путеводитель инвестора". Avoid fake lengthy microtext, invented statistics or legal claims. The small sign only needs the logo.
+Keep generous exterior margins and ample breathing space. Use size and placement to create clear hierarchy. Crisp typography, consistent alignment, professional slide craft. All slide labels and application copy in Russian. The only allowed additional labels if needed are "Знак и логотип", "Палитра", "Примеры применения", but prefer visual clarity over excessive labeling.
+No existing bank logos, no KRDV branding, no state emblems, no coins, bank cards, percentage signs, arrows pointing up, charts, maps, mountains, suns, roofs, shields, check marks, rockets, sparkles, infinity loops, linked chain symbols, scanning frames or stock logo clichés. No gradients or 3D inside the symbol. No ornate textures, gold, historical typography or retro palette. No AI comments, no watermark. All typography must remain legible at presentation size. This is an original branding proposal, not a stock template.
+CONCEPT LABEL: "01 / Общий центр"
+RATIONALE exactly: "Разные проекты объединены одной системой."
+ART DIRECTION: Bright clear contemporary institutional identity. Invent a compact original geometric emblem that expresses several distinct parts forming a single common space. Prefer one bold integrated silhouette with a clever central negative space over a collection of separate squares. Give it a purposeful asymmetric detail. It should be identifiable alone at 24 pixels, balanced and strong but not heavy. No more than three major components. Do not make it a generic flower or four-point star.
+Typography: original clean confident medium-bold grotesque lettering with precisely cut terminals and slightly open bowls, no chunky industrial stencil, no decorative ligatures that impair Cyrillic reading.
+Palette: vivid ultramarine #3156F5, very dark ink #171D2A, clean cool-white #F5F7FA. Use white as most of the presentation canvas. Ultramarine is a strong ownable accent within mockups and the derived graphic region; dark ink for text.
+The visual system uses big open color fields and generous margins. The website should look like a mature infrastructure platform with an expressive yet very clean hero. The printed guide should demonstrate calm modern editorial typography. Make the emblem and its derived graphic device exceptionally distinctive and closely connected.
+```

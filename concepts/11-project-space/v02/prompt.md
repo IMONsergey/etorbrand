@@ -1,0 +1,9 @@
+# Пространство возможностей: v02
+
+Дата: 2026-11-03. Инструмент: image_gen.imagegen. Режим: edit. Прозрачность: false. Вход: ../v01/brand-board.png.
+
+```text
+Edit this ЕТОР brand board, preserving the excellent white/lilac palette, light typography, all correctly spelled Russian text, overall layout and website/cover examples. Fix ONLY the SYMBOL and graphic forms derived from it everywhere, consistently. The current circular symbol reads as Pac-Man and is unacceptable because the client explicitly requires no retro cues.
+Replace it with a confident contemporary NON-CIRCULAR compact architectural sign. Design one solid near-square silhouette, approximately 1:1 proportions, with a sharply clipped upper-right corner and a modest soft curve only at the lower-left corner. Straight top, left, bottom, and right edges otherwise. The entire overall body must be clearly square, not a circle, not a rounded app container. Cut a precise narrow horizontal rectangular slot into the right side, extending about halfway into the body. Add a small separate square aligned to this slot just outside the body, leaving a small clean gap. This should look like a project entering an architectural space, never a face, mouth, game character, camera or arrow. Two components total, absolutely flat dark-violet fill, no shadows/gradients/outlines. Make the proportions lean and refined.
+Use this EXACT same new non-circular sign in the hero, lilac avatar, website header, and document cover logo. The large graphic crop at the right of the document cover should derive from the new angular body, NOT a circle. Replace the large circular photographic crop on the website with a clean rectangular crop with just ONE clipped upper-right corner, maintaining the architecture photograph. Do not add extra elements or change copy. Keep everything exceptionally crisp and current.
+```
