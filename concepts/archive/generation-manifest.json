@@ -1,0 +1,262 @@
+[
+  {
+    "round": "round03",
+    "number": 1,
+    "id": "assembly",
+    "path": "concepts/archive/round03/01-assembly/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "770757b1a366c4f851e1977861ddfaab9e739407f4333ea295f7753152e03185"
+  },
+  {
+    "round": "round03",
+    "number": 2,
+    "id": "coordinates",
+    "path": "concepts/archive/round03/02-coordinates/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "5be64b08f8c2da40bc88bd33ca84a2ba9bb02766a4ef0a76c11ccf221e294bde"
+  },
+  {
+    "round": "round03",
+    "number": 3,
+    "id": "ahead",
+    "path": "concepts/archive/round03/03-ahead/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "9c25182a5f550de9a50079a0660f194d1927221e1c751d844d0344f98385f01a"
+  },
+  {
+    "round": "round03",
+    "number": 4,
+    "id": "common-ground",
+    "path": "concepts/archive/round03/04-common-ground/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "ea50cb838289ff59fc6c43090f12de4fb6e860b2b535ecebbb7b126a7c6434a7"
+  },
+  {
+    "round": "round03",
+    "number": 5,
+    "id": "et-monogram",
+    "path": "concepts/archive/round03/05-et-monogram/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "969501de3f81648bcf4e2b87c5a07b88c489ce62f73f1c494b192928bc22870d"
+  },
+  {
+    "round": "round03",
+    "number": 6,
+    "id": "fit",
+    "path": "concepts/archive/round03/06-fit/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "0788e08a694d06c1f6e31c8ce430cbd63f8986df8c67575fed1d01e23971f649"
+  },
+  {
+    "round": "round03",
+    "number": 7,
+    "id": "scale",
+    "path": "concepts/archive/round03/07-scale/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "db463dc0f838755cea58824a5a66d73a54b65aa5208ce93269a22f6f7023067d"
+  },
+  {
+    "round": "round03",
+    "number": 8,
+    "id": "junction",
+    "path": "concepts/archive/round03/08-junction/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "fcdd3e1d91cd8b1d1abd4dda52f470332e4cba1b3f7944ab7f7be1f96085a47e"
+  },
+  {
+    "round": "round03",
+    "number": 9,
+    "id": "platform",
+    "path": "concepts/archive/round03/09-platform/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "438bd56af89b8a47e416c24e48ceca56ec9327db71bdf837ead02a77f8b0cc44"
+  },
+  {
+    "round": "round03",
+    "number": 10,
+    "id": "territory",
+    "path": "concepts/archive/round03/10-territory/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "558a90d052466fc24ef29ab2a01365dd653e86e905e5c0d3e8f6de0ef7f16faf"
+  },
+  {
+    "round": "round03",
+    "number": 11,
+    "id": "impulse",
+    "path": "concepts/archive/round03/11-impulse/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "59a8d02f41af51ab927e8e118a1928fcb426f5fb171c16e0a062a490d1a2bd55"
+  },
+  {
+    "round": "round03",
+    "number": 12,
+    "id": "name-code",
+    "path": "concepts/archive/round03/12-name-code/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "224a5c976fc2a0b493648b575f1fb455e690fddb35ae7f3141e5415a8579e03f"
+  },
+  {
+    "round": "round03",
+    "number": 13,
+    "id": "perspective",
+    "path": "concepts/archive/round03/13-perspective/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "08c7ace9e14408a94df9c9cadc2be61db98c55fac583410672c2c3026963bc70"
+  },
+  {
+    "round": "round03",
+    "number": 14,
+    "id": "open-system",
+    "path": "concepts/archive/round03/14-open-system/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "9d2417864d0bcc9103c308f5e4d0316c1adc04866512d951fbc1378e2e57f76c"
+  },
+  {
+    "round": "round03",
+    "number": 15,
+    "id": "weave",
+    "path": "concepts/archive/round03/15-weave/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "cdea1a07a3049ae782e9c3e950ed59ce35942a791ee5fec9ce82bca0e8ddf78d"
+  },
+  {
+    "round": "round03",
+    "number": 16,
+    "id": "long-horizon",
+    "path": "concepts/archive/round03/16-long-horizon/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "bac198e1fd1a88eefee44843404f4cd83959c219ecb95b3e525317ae7cdc430e"
+  },
+  {
+    "round": "round03",
+    "number": 17,
+    "id": "potential",
+    "path": "concepts/archive/round03/17-potential/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "f6cd4344d723234bf2c047770eba0b305bbf3a94465cc1458d52c067161927b3"
+  },
+  {
+    "round": "round04",
+    "number": 1,
+    "id": "e-circle",
+    "path": "concepts/archive/round04/01-e-circle/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "9b93fdf0fde314db8abc362ba9d731d1456f46b21e829c4e12f0c947d0cbbce4"
+  },
+  {
+    "round": "round04",
+    "number": 2,
+    "id": "et-lettermark",
+    "path": "concepts/archive/round04/02-et-lettermark/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "a682a3ffa897ca586520924094c03d1745967c2452178ecbddb53420d4c5d84c"
+  },
+  {
+    "round": "round04",
+    "number": 3,
+    "id": "three-bars",
+    "path": "concepts/archive/round04/03-three-bars/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "3a9470bcdb19ec0fbc16dd7e3e680a22f1c7c3f82933dd9421dce98a1b829bf9"
+  },
+  {
+    "round": "round04",
+    "number": 4,
+    "id": "four-letters",
+    "path": "concepts/archive/round04/04-four-letters/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "456c231f07c68dbee8047121508f183f539463de41a20366d2dea3c20ede6068"
+  },
+  {
+    "round": "round04",
+    "number": 5,
+    "id": "project-field",
+    "path": "concepts/archive/round04/05-project-field/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "c0b5e9440bd4dd0688b313c24836c4d4c97118c3d01446dee330e9a01b8b017e"
+  },
+  {
+    "round": "round04",
+    "number": 6,
+    "id": "four-modules",
+    "path": "concepts/archive/round04/06-four-modules/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "eaae8b9567dbc0eb7b9e8110f4c571af0fb5d35206e56d1411be4a527978a42d"
+  },
+  {
+    "round": "round04",
+    "number": 7,
+    "id": "plus",
+    "path": "concepts/archive/round04/07-plus/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "6659f8f82d7bc96d5ad53924ba3da29c99d6e424af5b7861c31ca5d9e85e8840"
+  },
+  {
+    "round": "round04",
+    "number": 8,
+    "id": "direction",
+    "path": "concepts/archive/round04/08-direction/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "86fc926f8c40167e04235ba9d9345540049aef7da324a71c1e9253af0e81d3a7"
+  },
+  {
+    "round": "round04",
+    "number": 9,
+    "id": "shared-area",
+    "path": "concepts/archive/round04/09-shared-area/brand-board.png",
+    "status": "rejected-series",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "sha256": "9d8261be3d19046d20bf0ff2f5e9eac56319948666b9954f6287f31415454126"
+  }
+]

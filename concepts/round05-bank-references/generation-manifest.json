@@ -1,0 +1,26 @@
+[
+  {
+    "version": "v01",
+    "path": "concepts/round05-bank-references/01-et-lettermark/v01/brand-board.png",
+    "sha256": "18b393a2349678a47b27e13f29ecf4c6b85cd0685735b914c8896620bb1fae71",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "status": "proposal-unapproved",
+    "inputs": [
+      "Nubank billboards / Koto",
+      "Monzo Sans / Ragged Edge",
+      "T-Bank logo"
+    ]
+  },
+  {
+    "version": "v02",
+    "path": "concepts/round05-bank-references/01-et-lettermark/v02/brand-board.png",
+    "sha256": "b61e76ded60117b524f70c66fcb7634bf5686779f0c7e23c97878b8de04d76b2",
+    "tool": "image_gen.imagegen",
+    "date": "2026-11-03",
+    "status": "proposal-unapproved",
+    "inputs": [
+      "v01/brand-board.png"
+    ]
+  }
+]

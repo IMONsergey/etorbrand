@@ -1,0 +1,68 @@
+[
+  {
+    "name": "monzo-layouts",
+    "source_image_url": "https://ragged-edge.transforms.svdcdn.com/production/uploads/Case-studies/Monzo/Monzo_Layouts_03_Mobile2.png?w=800&q=95&fm=webp&fit=min&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1749728365&s=16b7de8c8cdfdd83759f319f767c070f",
+    "sha256": "b932560f2b135c865c34bbf2c2572bc4adac916cee771a721025795f8b3ccdf5",
+    "visually_reviewed": true
+  },
+  {
+    "name": "monzo-type",
+    "source_image_url": "https://ragged-edge.transforms.svdcdn.com/production/uploads/Case-studies/Monzo/Monzo_Monzo_Sans.jpg?w=1480&q=95&auto=format&fit=min&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1753280090&s=8f8b69a7dcce2838abc0a9357930a665",
+    "sha256": "2c9fdbf2a694c9e0ce637dc6ed748bffd3c5485c780200d2a0f94083bafd7cc5",
+    "visually_reviewed": true
+  },
+  {
+    "name": "nubank-campaign",
+    "source_image_url": "https://koto.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fsbsn7wuy%2Fproduction%2F47218f6bf2730fb33143c6b9a6a1c38ff4af1ac2-3840x2160.jpg&w=3840&q=75",
+    "sha256": "7e18a3c01aeabcd1a587492a23034a7c1446a00737287e9003981f476a4ac2e3",
+    "visually_reviewed": true
+  },
+  {
+    "name": "nubank-billboards",
+    "source_image_url": "https://koto.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fsbsn7wuy%2Fproduction%2F3e660ccff739c271ea41f8027501ef62400ed88e-3840x2160.jpg&w=3840&q=75",
+    "sha256": "5d2c034ddb2005b80c818470374cac8747418e996df15642af09e29a65af4005",
+    "visually_reviewed": true
+  },
+  {
+    "name": "lloyds-poster",
+    "source_image_url": "https://www.wolffolins.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4rnblstkg79m%2F3Fk1WEoiYmfZK7eHeRjKDq%2Ff145d65b1da8c8550ef3bc0d6eb4e72c%2F15_Lloyds_Website_Poster.jpg&w=3840&q=75",
+    "sha256": "7c4e5384312ad062835f49b293a474d414d1e32639a260f16ce4a58b1760e0f5",
+    "visually_reviewed": true
+  },
+  {
+    "name": "dnb-logo",
+    "source_image_url": "https://old.snohetta.com/uploads/images/732f298e7199ea2db0e4eca405f287d4_2048w.jpg",
+    "sha256": "8077f26831b78c59bb670b3893dc66d01b9b4b71d9ec97ea54ee6b8f664d0a75",
+    "visually_reviewed": false
+  },
+  {
+    "name": "dnb-system",
+    "source_image_url": "https://old.snohetta.com/uploads/project/49/4447960118223f8fb99020901a2a082c_2048w.jpg",
+    "sha256": "279708703a315456b9c877f76d0bf408bbe162bace6fc057c2005aba7f11819c",
+    "visually_reviewed": true
+  },
+  {
+    "name": "maximum-mark",
+    "source_image_url": "https://cdn.sanity.io/images/ew1yzffi/production/3d6fda709d4139eea67aba50f8f6251c6a253f76-3500x4376.jpg?w=1800&q=80&auto=format&dpr=1.5",
+    "sha256": "fd969c3f36729722ce8a1a2a9294292569825f11061709bac6d6bc458fd2231f",
+    "visually_reviewed": true
+  },
+  {
+    "name": "maximum-poster",
+    "source_image_url": "https://cdn.sanity.io/images/ew1yzffi/production/67e25ed54d5ad80818a3c42aa0070b1a3913c28f-5280x2970.jpg?w=1800&q=80&auto=format&dpr=1.5",
+    "sha256": "c8f6259344857d7d57f3cb9639fb86a8f7d0fa2d60e76d0cd146e26c9fcd6339",
+    "visually_reviewed": true
+  },
+  {
+    "name": "tbank-family",
+    "source_image_url": "https://imgproxy.cdn-tinkoff.ru/zoom_05:compressed95/aHR0cHM6Ly9jZG4udGJhbmsucnUvc3RhdGljL3BhZ2VzL2ZpbGVzL2NmY2FjOTNhLWQwMWMtNDM2NC04NTJhLWExMGE4NWY3ZTg1Zi5wbmc=",
+    "sha256": "0c41202692b37e6eba5dedfe4f76ff555deff46ec06bd86a6e6d83d0a153069d",
+    "visually_reviewed": true
+  },
+  {
+    "name": "tbank-family2",
+    "source_image_url": "https://imgproxy.cdn-tinkoff.ru/zoom_05:compressed95/aHR0cHM6Ly9jZG4udGJhbmsucnUvc3RhdGljL3BhZ2VzL2ZpbGVzL2Q2NTQyYThhLWU1ZDktNDlmNC1iNTE2LWZmMjY2ODk3ZjM3ZS5wbmc=",
+    "sha256": "04785bc885927aa402f7482b3c9ac0d0eef762ceb12504b87b7e481a1059f44c",
+    "visually_reviewed": true
+  }
+]
