@@ -1,0 +1,268 @@
+{
+  "concepts": [
+    {
+      "id": "01",
+      "title": "Точка опоры",
+      "archive_name": "ETOR_01_Точка_опоры.png",
+      "sha256": "1bcf95880a69a197288df63e8a6ee3b769ec1b9f6b2f9a5351fcfe7af8ba6da0",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "02",
+      "title": "Общая высота",
+      "archive_name": "ETOR_02_Общая_высота.png",
+      "sha256": "08afc789d9e2a5eeb0cda6edec6c1b50a8fa180c4ca73dc376dac67cb59d305f",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "03",
+      "title": "Система координат",
+      "archive_name": "ETOR_03_Система_координат.png",
+      "sha256": "c612290ba4c71ded5bd848e29d15bd12e28b158d167d96abac2decb7be119315",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "04",
+      "title": "Новый масштаб",
+      "archive_name": "ETOR_04_Новый_масштаб.png",
+      "sha256": "c7c8742b9524a18446b111e2a06bd5a88507bc3295f28606af01f08dbb9b43cc",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "05",
+      "title": "Линия горизонта",
+      "archive_name": "ETOR_05_Линия_горизонта.png",
+      "sha256": "7c609c4b890ad86011aa0a022c2d314cb792241e42db233a3c32f8a6e7f8005b",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "06",
+      "title": "Общий ритм",
+      "archive_name": "ETOR_06_Общий_ритм.png",
+      "sha256": "b04fc3030e3a01b634332ab2d8ad4897603f8be6aff5223819fb5adad6a46c62",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "07",
+      "title": "Основа роста",
+      "archive_name": "ETOR_07_Основа_роста.png",
+      "sha256": "e09c5c4348dced722b8f30360d0f4ef9e9bdbe7437f3e48adaaaf827f9eccbca",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "08",
+      "title": "Встречный курс",
+      "archive_name": "ETOR_08_Встречный_курс.png",
+      "sha256": "3d8885024af432697ec061187d9fd92c4f846e8acc5df38b580c1e0a6df9f0e7",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "09",
+      "title": "Равновесие",
+      "archive_name": "ETOR_09_Равновесие.png",
+      "sha256": "b48b1790875b67e2d3c3c75c5fc08866c5d2d238ab9c6c64b24b3a915d533d7d",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "10",
+      "title": "Собранный потенциал",
+      "archive_name": "ETOR_10_Собранный_потенциал.png",
+      "sha256": "45200ab8e5d38ecb19e481e0d3c68f4de56d52b92faac8d26b5bce1243a3d164",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "11",
+      "title": "Рабочее поле",
+      "archive_name": "ETOR_11_Рабочее_поле.png",
+      "sha256": "5ab5b8a9a5241f288c46c664aa0d6be70c116a925083fff289ed5e0e2e11a08f",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "12",
+      "title": "Непрерывный маршрут",
+      "archive_name": "ETOR_12_Непрерывный_маршрут.png",
+      "sha256": "32ac83a9a040af3f7f251a03a7a224decb3b7cabbed93222b1aa0122c4c0bcf0",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "13",
+      "title": "Потенциал внутри",
+      "archive_name": "ETOR_13_Потенциал_внутри.png",
+      "sha256": "679c8f03b500f8adec1e9ea9c8333c907c65f36ddffe00cba80294a3a7454eae",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "14",
+      "title": "Человеческий масштаб",
+      "archive_name": "ETOR_14_Человеческий_масштаб.png",
+      "sha256": "62ed419d79aaa33111325db63bb0985b6df1397fa0e75e97eb14af2157126c05",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "15",
+      "title": "Открытая скобка",
+      "archive_name": "ETOR_15_Открытая_скобка.png",
+      "sha256": "a9dc96386c971dbf30ff68440636a2cf3a5e04cb90a0aa545560f9bd399e4c66",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "16",
+      "title": "Живая линия",
+      "archive_name": "ETOR_16_Живая_линия.png",
+      "sha256": "1e12b8129c67b9ac87f583b11a00a89fbe4b3aef335d89bec9e9e17b1cd4afdb",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "17",
+      "title": "Ресурс",
+      "archive_name": "ETOR_17_Ресурс.png",
+      "sha256": "1c9d498f02ecc124aa302749bce1fdd6f5200cd9fb8e1f846bfd5c1048853a16",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "18",
+      "title": "Отправная точка",
+      "archive_name": "ETOR_18_Отправная_точка.png",
+      "sha256": "1d0bdcbc2e77b152497856daa5b46bf0d06833bb4373a72f7cba50220a422c64",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "19",
+      "title": "Конструктив",
+      "archive_name": "ETOR_19_Конструктив.png",
+      "sha256": "2ed7a11ce03874b977f016b7d60a45f7eb9522b1088adde2fc640d7fa173d5cb",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "20",
+      "title": "Общий фокус",
+      "archive_name": "ETOR_20_Общий_фокус.png",
+      "sha256": "cb9eef5e93f887bac686b80246700251fecde0bb068c3f165e9fbd7bcbe99086",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "21",
+      "title": "Код территории",
+      "archive_name": "ETOR_21_Код_территории.png",
+      "sha256": "f14ecc6ea387b5527344bb9bd30431825f52e0700a362394c8ba4f5835e273d4",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "22",
+      "title": "Территория действия",
+      "archive_name": "ETOR_22_Территория_действия.png",
+      "sha256": "00e685ed6c90ac95ef5baf58e5ec13950c23327ce6418b2f810146def8ccde53",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "23",
+      "title": "Общий спектр",
+      "archive_name": "ETOR_23_Общий_спектр.png",
+      "sha256": "23ca20f8dc4f1dc213bc443790c2ec6d81662ebb48bf29cd7eddb369de91215d",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "24",
+      "title": "Свой масштаб",
+      "archive_name": "ETOR_24_Свой_масштаб.png",
+      "sha256": "29ad7c0c3169329f5cd1cdc38473f667d89d61459c40dfa9631e3f925715818b",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "25",
+      "title": "Площадка возможностей",
+      "archive_name": "ETOR_25_Площадка_возможностей.png",
+      "sha256": "89f5fe2ad79ddf184d3820f040dc0a75eeba49c2f64f4dcc51f87dffd0d7e1dd",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "26",
+      "title": "Паспорт проекта",
+      "archive_name": "ETOR_26_Паспорт_проекта.png",
+      "sha256": "9f02d17807883fa739d0e0e85533f3f300486a0ac0a9f4fed49ca0628e27ac4c",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "27",
+      "title": "План развития",
+      "archive_name": "ETOR_27_План_развития.png",
+      "sha256": "a9702ff6aed8125dd59e8098928956bb84f9e1f7a3c408c5c85ab23c37e315a0",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "28",
+      "title": "Сопряжение",
+      "archive_name": "ETOR_28_Сопряжение.png",
+      "sha256": "2ac79bea22a4f86fb4b62b341022c4f27049cf36a7269f353f03da54ae7d00c9",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "29",
+      "title": "Попутный курс",
+      "archive_name": "ETOR_29_Попутный_курс.png",
+      "sha256": "1c9c367d0c1a531752e9e7f380138705d99f0f494003c42725d469e38aa017e4",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": "30",
+      "title": "Рабочий импульс",
+      "archive_name": "ETOR_30_Рабочий_импульс.png",
+      "sha256": "e5dbf5841e6dbef7b7b1298ceb6d66a3c2789fc5ef6feb28eff23d091c007923",
+      "width": 1672,
+      "height": 941
+    }
+  ],
+  "artifacts": [
+    {
+      "size": 11085193,
+      "sha256": "3fb6469bb24984013d6f6dfad4c38b7bce67b10c17d8de373f972339c8ee2394",
+      "filename": "ETOR_30_concepts.pdf"
+    },
+    {
+      "size": 42587630,
+      "sha256": "4db7a476773c571c14ca884971df2698962213a4ca385b7fb7645dad2d8750e4",
+      "filename": "ETOR_30_PNG.zip"
+    }
+  ],
+  "pages": 30,
+  "verified_png_count": 30,
+  "library": [
+    {
+      "filename": "ETOR_30_concepts.pdf",
+      "library_file_id": "libfile_78edc057bfb88191825797e4f5978f7d"
+    },
+    {
+      "filename": "ETOR_30_PNG.zip",
+      "library_file_id": "libfile_656f8022bfb4819184ccc096cc07d880"
+    }
+  ]
+}
