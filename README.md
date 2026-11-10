@@ -10,6 +10,13 @@
 
 По текущему поручению сделаны 30 новых разных раскладок через ImageGen. Каждый вариант показан отдельно, с самостоятельным знаком, названием и развитием графики. Это растровые концепции для выбора; новая серия еще не утверждена.
 
+В продолжение подготовлены пять углубленных раскладок направлений 11, 19 и 27, а также три геометрических SVG-прототипа знаков. Для сравнения рекомендованы 19-v2b и 27-v2a. Выбор второй концепции пока не подтвержден.
+
+- [Пять новых вариантов, PDF](https://chatgpt.com/library?file_id=libfile_fde3_f-053541d8c75c81918a79e9d428936647_e48ac6591ba481918691fefc06b66caa&account_id=personal).
+- [Архив PNG + SVG + запросы](https://chatgpt.com/library?file_id=libfile_fde3_f-c100a794f8ec8191bee21a4d70ace657_e48ac6591ba481918691fefc06b66caa&account_id=personal).
+- [Протокол углубления](docs/sessions/2026-11-10-second-concept-deepening.md).
+
+
 - [30 вариантов, PDF](https://chatgpt.com/library?file_id=libfile_78edc057bfb88191825797e4f5978f7d&account_id=personal).
 - [30 отдельных PNG, ZIP](https://chatgpt.com/library?file_id=libfile_656f8022bfb4819184ccc096cc07d880&account_id=personal).
 - [Контекст, результат, проверка и точка продолжения](docs/sessions/2026-11-10-thirty-alternatives.md).
